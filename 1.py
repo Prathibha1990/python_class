@@ -1,0 +1,5 @@
+print('''python is a general purpose language''')
+print("web developement")
+# print(""web developement"")
+print("""web developement""")
+print('web \n\tdevelopement')
